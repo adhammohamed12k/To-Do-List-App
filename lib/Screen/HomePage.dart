@@ -38,7 +38,7 @@ class TasksScreen extends StatelessWidget {
                 final total = taskObject.data?.total ?? 0;
 
                 return Text(
-                  "$total Tasks",
+                  "$total Tasksss",
                   style: const TextStyle(
                     color: Colors.white,
                     fontSize: 18,
